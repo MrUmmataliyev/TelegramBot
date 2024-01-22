@@ -22,6 +22,8 @@ namespace Insta
 
             await Console.Out.WriteLineAsync("tes nimadur b'ldis");
 
+            await Console.Out.WriteLineAsync("nimadur o'lsdjfklshdkjfhaskdhfkashdf");
+
 
             // string startPath = @"D:\dotnetexternal\flyuchun\test";
             // string zipPath = @"D:\dotnetexternal\flyuchun\result.zip";
