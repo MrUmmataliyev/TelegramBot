@@ -20,6 +20,7 @@ namespace Insta
                 throw new Exception("nima gap");
             }
 
+
             // string startPath = @"D:\dotnetexternal\flyuchun\test";
             // string zipPath = @"D:\dotnetexternal\flyuchun\result.zip";
             //// string extractPath = @".\extract";
