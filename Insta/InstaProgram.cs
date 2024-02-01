@@ -21,13 +21,7 @@ namespace Insta
             }
 
 
-            // string startPath = @"D:\dotnetexternal\flyuchun\test";
-            // string zipPath = @"D:\dotnetexternal\flyuchun\result.zip";
-            //// string extractPath = @".\extract";
-
-            // ZipFile.CreateFromDirectory(startPath, zipPath);
-
-            //ZipFile.ExtractToDirectory(zipPath, extractPath);
+            //hi
 
         }
     }
